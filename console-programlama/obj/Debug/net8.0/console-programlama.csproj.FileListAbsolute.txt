@@ -12,3 +12,4 @@ c:\Users\busen\OneDrive\Masaüstü\kodluyoruz.NET\console-programlama\obj\Debug\
 c:\Users\busen\OneDrive\Masaüstü\kodluyoruz.NET\console-programlama\obj\Debug\net8.0\console-programlama.pdb
 c:\Users\busen\OneDrive\Masaüstü\kodluyoruz.NET\console-programlama\obj\Debug\net8.0\console-programlama.genruntimeconfig.cache
 c:\Users\busen\OneDrive\Masaüstü\kodluyoruz.NET\console-programlama\obj\Debug\net8.0\ref\console-programlama.dll
+c:\Users\busen\OneDrive\Masaüstü\kodluyoruz.NET\console-programlama\obj\Debug\net8.0\console-programlama.sourcelink.json

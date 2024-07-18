@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\busen\\OneDrive\\Masaüstü\\kodluyoruz.NET\\console-programlama\\console-programlama.csproj": {}
+    "C:\\Users\\busen\\OneDrive\\Masaüstü\\kodluyoruz.NET\\console-programlama\\console-programlama.csproj": {}
   },
   "projects": {
-    "c:\\Users\\busen\\OneDrive\\Masaüstü\\kodluyoruz.NET\\console-programlama\\console-programlama.csproj": {
+    "C:\\Users\\busen\\OneDrive\\Masaüstü\\kodluyoruz.NET\\console-programlama\\console-programlama.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\busen\\OneDrive\\Masaüstü\\kodluyoruz.NET\\console-programlama\\console-programlama.csproj",
+        "projectUniqueName": "C:\\Users\\busen\\OneDrive\\Masaüstü\\kodluyoruz.NET\\console-programlama\\console-programlama.csproj",
         "projectName": "console-programlama",
-        "projectPath": "c:\\Users\\busen\\OneDrive\\Masaüstü\\kodluyoruz.NET\\console-programlama\\console-programlama.csproj",
+        "projectPath": "C:\\Users\\busen\\OneDrive\\Masaüstü\\kodluyoruz.NET\\console-programlama\\console-programlama.csproj",
         "packagesPath": "C:\\Users\\busen\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\busen\\OneDrive\\Masaüstü\\kodluyoruz.NET\\console-programlama\\obj\\",
+        "outputPath": "C:\\Users\\busen\\OneDrive\\Masaüstü\\kodluyoruz.NET\\console-programlama\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
